@@ -1,23 +1,5 @@
 [
   {
-    "name": "ITPEC",
-    "url": "http://mtmwhere.pythonanywhere.com/home/",
-    "icon": "https://icons.duckduckgo.com/ip3/mtmwhere.pythonanywhere.com.ico",
-    "slug": "itpec",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 159,
-    "timeDay": 159,
-    "timeWeek": 159,
-    "timeMonth": 159,
-    "timeYear": 159,
-    "dailyMinutesDown": {}
-  },
-  {
     "name": "Wikipedia",
     "url": "https://en.wikipedia.org",
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
@@ -28,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 434,
-    "timeDay": 434,
-    "timeWeek": 434,
-    "timeMonth": 434,
-    "timeYear": 434,
+    "time": 297,
+    "timeDay": 297,
+    "timeWeek": 297,
+    "timeMonth": 297,
+    "timeYear": 297,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 292,
-    "timeDay": 292,
-    "timeWeek": 292,
-    "timeMonth": 292,
-    "timeYear": 292,
+    "time": 340,
+    "timeDay": 340,
+    "timeWeek": 340,
+    "timeMonth": 340,
+    "timeYear": 340,
     "dailyMinutesDown": {}
   },
   {

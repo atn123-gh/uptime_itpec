@@ -22,7 +22,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**]([https://demo.upptime.js.org](https://atn123-gh.github.io/uptime_itpec/))
+[**Visit our status website →**]([https://atn123-gh.github.io/uptime_itpec/](https://atn123-gh.github.io/uptime_itpec/))
 
 ## 📄 License
 

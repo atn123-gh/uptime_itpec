@@ -1,4 +1,4 @@
-# [📈 Live Status]([https://demo.upptime.js.org](https://atn123-gh.github.io/uptime_itpec/)): <!--live status--> **🟧 Partial outage**
+# [📈 Live Status]([https://atn123-gh.github.io/uptime_itpec/](https://atn123-gh.github.io/uptime_itpec/)): <!--live status--> **🟧 Partial outage**
 
 This repository contains the open-source uptime monitor and status page for [Upptime](https://upptime.js.org), powered by [Upptime](https://github.com/upptime/upptime).
 

@@ -3,6 +3,8 @@ owner: atn123-gh
 repo: uptime_itpec
 
 sites:
+  - name: IT
+    url: http://mtmwhere.pythonanywhere.com/home/
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News

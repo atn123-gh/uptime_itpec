@@ -16,7 +16,8 @@
     "timeMonth": 108,
     "timeYear": 296,
     "dailyMinutesDown": {
-      "2023-10-14": 1409,
+      "2023-10-15": 47,
+      "2023-10-14": 1440,
       "2023-10-13": 1440,
       "2023-10-12": 1440,
       "2023-10-11": 1440,
@@ -99,18 +100,16 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 303,
     "timeDay": 411,
     "timeWeek": 341,
     "timeMonth": 312,
     "timeYear": 303,
-    "dailyMinutesDown": {
-      "2023-10-14": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Test Broken Site",
